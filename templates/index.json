@@ -279,8 +279,9 @@
         "image_KknMdx": {
           "type": "image",
           "settings": {
-            "caption": "<p>Transforme qualquer ambiente com elegância!</p>",
-            "captionhashtag": "<p>#elegante</p>"
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_16.14.41.png",
+            "caption": "<p>Este macacão jeans é a definição de sensualidade! 🔥👖</p>",
+            "captionhashtag": "<p><strong>#fashion #macacão #pitbull</strong></p>"
           }
         },
         "image_UMURDd": {
