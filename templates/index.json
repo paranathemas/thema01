@@ -69,8 +69,8 @@
           "settings": {
             "collection": "frontpage",
             "label": "",
-            "button_text": "Ver todos",
-            "button_url": ""
+            "button_text": "",
+            "button_url": "shopify://collections/frontpage"
           }
         }
       },
