@@ -175,41 +175,41 @@
   },
   "product": {
     "general": {
-      "description": "Description",
+      "description": "Descrição",
       "reviews": "Reviews ({{ rating_count }})",
       "sku": "SKU:",
-      "regular_price": "Regular price",
-      "sale_price": "Sale price",
-      "view_in_space": "View in your space",
+      "regular_price": "Preço normal",
+      "sale_price": "Preço de venda ",
+      "view_in_space": "Ver no seu espaço",
       "zoom": "Zoom",
-      "share": "Share",
+      "share": "Compartilhar",
       "size_chart": "Size chart",
-      "need_help": "Need help?",
-      "view_details": "View details",
-      "include_taxes": "Tax included.",
+      "need_help": "Precisa de ajuda?",
+      "view_details": "Ver mais",
+      "include_taxes": "Taxas inclusas.",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link link--accented\">Shipping calculated</a> at checkout",
       "reviews_count": {
-        "zero": "No reviews",
-        "one": "{{ count }} review",
-        "other": "{{ count }} reviews"
+        "zero": "Sem avaliações",
+        "one": "{{ count }} avaliação",
+        "other": "{{ count }} avaliações"
       }
     },
     "form": {
-      "choose_options": "Choose options",
-      "quantity": "Quantity",
-      "variant": "Variant",
-      "unavailable": "Unavailable",
+      "choose_options": "Escolher opções",
+      "quantity": "Quantidade",
+      "variant": "Variante",
+      "unavailable": "Indisponível",
       "pre_order": "Pre-order",
-      "add_to_cart": "Add to cart",
-      "sold_out": "Sold out",
-      "in_stock": "In stock",
+      "add_to_cart": "Adicionar ao carrinho",
+      "sold_out": "Esgotado",
+      "in_stock": "Em estoque",
       "oversell_stock": "Re-stocking soon",
       "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
         "one": "Only {{count}} unit left",
         "other": "Only {{count}} units left"
       },
-      "contact_us": "Contact us"
+      "contact_us": "Contate-nos"
     }
   },
   "store_availability": {
