@@ -166,7 +166,7 @@
         "collection_icTrcb"
       ],
       "settings": {
-        "reveal_on_scroll": true,
+        "reveal_on_scroll": false,
         "layout": "carousel",
         "subheading": "",
         "title": "",
@@ -194,6 +194,68 @@
         "title": "Esquenta Black November",
         "content": "<h6>[ PRODUTOS SELECIONADOS COM ATÉ 40% OFF ]</h6>",
         "products_count": 10,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "slideshow_pM6tf4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_JtyKHh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banners_pitbull_3.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 9
+          }
+        }
+      },
+      "block_order": [
+        "image_JtyKHh"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "featured_collections_NFTrPL": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_6ThkpF": {
+          "type": "collection",
+          "settings": {
+            "collection": "calcas",
+            "label": "",
+            "button_text": "",
+            "button_url": "shopify://collections/calcas"
+          }
+        }
+      },
+      "block_order": [
+        "collection_6ThkpF"
+      ],
+      "settings": {
+        "title": "Produtos de Outlet",
+        "content": "",
+        "products_count": 6,
         "products_per_row": 4,
         "stack_products": true,
         "show_cta": false,
@@ -236,30 +298,74 @@
         "background": "rgba(0,0,0,0)"
       }
     },
-    "featured_collections_NFTrPL": {
-      "type": "featured-collections",
+    "text_with_icons_F6hc6L": {
+      "type": "text-with-icons",
       "blocks": {
-        "collection_6ThkpF": {
-          "type": "collection",
+        "item_kMpVLr": {
+          "type": "item",
           "settings": {
-            "collection": "calcas",
-            "label": "",
-            "button_text": "",
-            "button_url": "shopify://collections/calcas"
+            "icon": "picto-fast-delivery",
+            "custom_icon_width": 50,
+            "title": "Frete 24h disponível",
+            "content": "<p>Entrega em até 24h para todo Brasil (consulte todas as condições)</p>"
+          }
+        },
+        "item_XBHKWJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Suporte ao Cliente",
+            "content": "<p>Confira nossos canais de atendimento disponíveis logo abaixo</p>"
+          }
+        },
+        "item_fnTMen": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Loja Verificada",
+            "content": "<p>Loja verificada com criptografia de ponta a ponta e segurança SSL</p>"
           }
         }
       },
       "block_order": [
-        "collection_6ThkpF"
+        "item_kMpVLr",
+        "item_XBHKWJ",
+        "item_fnTMen"
       ],
       "settings": {
-        "title": "Produtos de Outlet",
-        "content": "",
-        "products_count": 6,
-        "products_per_row": 4,
-        "stack_products": true,
-        "show_cta": false,
         "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image_with_text_xMzAj8": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_TUhCHG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_17.42.30.png",
+            "tab_label": "Item",
+            "subheading": "conheça nossa história",
+            "title": "",
+            "content": "<p>A Pit Bull Jeans, fundada em 1998, é referência em jeans modelador. A marca utiliza tecnologias avançadas e tecidos de alta elasticidade para realçar as curvas do corpo e elevar a autoestima, focando tanto no público feminino quanto no masculino com peças de alta qualidade e design inovador.</p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_TUhCHG"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
@@ -324,112 +430,6 @@
         "insta-fonte_color": "#ffffff",
         "button_text": "",
         "button_url": "https://www.instagram.com/pitbulljeansoficial/"
-      }
-    },
-    "image_with_text_xMzAj8": {
-      "type": "image-with-text",
-      "blocks": {
-        "item_TUhCHG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_17.42.30.png",
-            "tab_label": "Item",
-            "subheading": "conheça nossa história",
-            "title": "",
-            "content": "<p>A Pit Bull Jeans, fundada em 1998, é referência em jeans modelador. A marca utiliza tecnologias avançadas e tecidos de alta elasticidade para realçar as curvas do corpo e elevar a autoestima, focando tanto no público feminino quanto no masculino com peças de alta qualidade e design inovador.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_TUhCHG"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "text_with_icons_F6hc6L": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_kMpVLr": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-fast-delivery",
-            "custom_icon_width": 50,
-            "title": "Frete 24h disponível",
-            "content": "<p>Entrega em até 24h para todo Brasil (consulte todas as condições)</p>"
-          }
-        },
-        "item_XBHKWJ": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "custom_icon_width": 50,
-            "title": "Suporte ao Cliente",
-            "content": "<p>Confira nossos canais de atendimento disponíveis logo abaixo</p>"
-          }
-        },
-        "item_fnTMen": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon_width": 50,
-            "title": "Loja Verificada",
-            "content": "<p>Loja verificada com criptografia de ponta a ponta e segurança SSL</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_kMpVLr",
-        "item_XBHKWJ",
-        "item_fnTMen"
-      ],
-      "settings": {
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "slideshow_pM6tf4": {
-      "type": "slideshow",
-      "blocks": {
-        "image_JtyKHh": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/banners_pitbull_3.png",
-            "text_position": "middle_center",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 9
-          }
-        }
-      },
-      "block_order": [
-        "image_JtyKHh"
-      ],
-      "settings": {
-        "section_height": "auto",
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 5,
-        "background": "rgba(0,0,0,0)"
       }
     }
   },
