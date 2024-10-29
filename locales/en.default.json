@@ -447,7 +447,17 @@
     "collections": {
       "sorting": {
         "manual": "Promoções",
-        "best_selling": "Mais Vendidos"
+        "best_selling": "Mais Vendidos",
+        "az": "Alfabeto, A-Z",
+        "za": "Alfabeto, Z-A",
+        "price_ascending": "Preço, menor para maior",
+        "price_descending": "Preço, maior para menor"
+      }
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Preço, menor para maior",
+        "price_descending": "Preço, maior para menor"
       }
     }
   }
