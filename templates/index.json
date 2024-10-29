@@ -67,7 +67,7 @@
         "collection_rrmz9R": {
           "type": "collection",
           "settings": {
-            "collection": "plantas-artificiais",
+            "collection": "frontpage",
             "label": "",
             "button_text": "Ver todos",
             "button_url": ""
@@ -78,8 +78,8 @@
         "collection_rrmz9R"
       ],
       "settings": {
-        "title": "Plantas Artificiais",
-        "content": "<p>O melhor para sua casa, você encontra aqui!</p>",
+        "title": "Esquenta Black November",
+        "content": "<h6>[ PRODUTOS SELECIONADOS COM ATÉ 40% OFF ]</h6>",
         "products_count": 10,
         "products_per_row": 4,
         "stack_products": true,
