@@ -185,6 +185,7 @@
     "bandeiras_w_mobilec": 14,
     "bandeiras_w_desktopc": 14,
     "cart_icon": "tote_bag",
+    "cart_empty_button_link": "shopify://collections/frontpage",
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "",
     "social_facebook": "https://www.youtube.com",
