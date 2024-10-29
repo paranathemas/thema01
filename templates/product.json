@@ -206,11 +206,65 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
-    "1671630895131fa66a": {
-      "type": "apps",
+    "instafeed_B8yzj3": {
+      "type": "Instafeed",
+      "blocks": {
+        "image_LTNHmM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_16.14.41.png",
+            "caption": "<p>Este macacão jeans é a definição de sensualidade! 🔥👖</p>",
+            "captionhashtag": "<p><strong>#pitbulljeansoficial #fashion #promo</strong></p>"
+          }
+        },
+        "image_fKJBAV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_16.15.08.png",
+            "caption": "<p>Uma calça skinny que nunca sai de moda! 😍✨</p>",
+            "captionhashtag": "<p><strong>#pitbulljeansoficial #skinny</strong></p>"
+          }
+        },
+        "image_FhzQxj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_16.14.58.png",
+            "caption": "<p>Sextou com um vestido preto que é puro poder! 🖤</p>",
+            "captionhashtag": "<p><strong>#pitbulljeansoficial #moda #pitt</strong></p>"
+          }
+        },
+        "image_GCfwkN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Captura_de_Tela_2024-10-29_as_16.12.46.png",
+            "caption": "<p>Ousadia e poder no mesmo look! 🔥</p>",
+            "captionhashtag": "<p><strong>#blacknovember #modapitt</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_LTNHmM",
+        "image_fKJBAV",
+        "image_FhzQxj",
+        "image_GCfwkN"
+      ],
       "settings": {
-        "include_horizontal_margins": true,
-        "include_vertical_margins": true
+        "title": "Acompanhe a loja no Instagram",
+        "titulo_celular": 16,
+        "titulo_desk": 20,
+        "tamanho_icon_mobile": 22,
+        "tamanho_icon_desktop": 24,
+        "meuarroba": "@pitbulljeansoficial",
+        "image_perfil": "shopify://shop_images/277702486_1309497126239819_91909.png",
+        "show_curtir": true,
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "hashtag_color": "#000",
+        "insta-btn_color": "#000",
+        "insta-fonte_color": "#fff",
+        "button_text": "",
+        "button_url": ""
       }
     },
     "product-recommendations": {
@@ -238,7 +292,7 @@
     "main",
     "product-content",
     "0156e20f-57ea-4f6a-99a4-6f9d637da63a",
-    "1671630895131fa66a",
+    "instafeed_B8yzj3",
     "product-recommendations",
     "3bece99d-b538-4163-b550-00067fdca693"
   ]
