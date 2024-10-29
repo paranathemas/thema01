@@ -38,9 +38,9 @@
           "settings": {
             "show_payment_button": false,
             "atc_button_background": "#009900",
-            "atc_button_text_color": "#FFF",
+            "atc_button_text_color": "#ffffff",
             "buy_now_button_background": "#009900",
-            "buy_now_button_text_color": "#FFF"
+            "buy_now_button_text_color": "#ffffff"
           }
         },
         "b03ccd22-2617-4a1d-ac48-e64ea4df469c": {
@@ -84,7 +84,7 @@
       ],
       "settings": {
         "show_progressbar": true,
-        "show_exclusividade": true,
+        "show_exclusividade": false,
         "show_label3": true,
         "show_vendidos": true,
         "show_bandeirascart": true,
