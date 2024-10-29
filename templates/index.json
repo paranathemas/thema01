@@ -193,16 +193,16 @@
             "icon": "picto-customer-support",
             "custom_icon_width": 50,
             "title": "Suporte ao Cliente",
-            "content": "<p>Eficiência e confiabilidade garantidas.</p>"
+            "content": "<p>Confira nossos canais de atendimento disponíveis logo abaixo</p>"
           }
         },
         "item_fnTMen": {
           "type": "item",
           "settings": {
-            "icon": "picto-warranty",
+            "icon": "picto-lock",
             "custom_icon_width": 50,
-            "title": "Compra Segura",
-            "content": "<p>Ambiente 100% seguro</p>"
+            "title": "Loja Verificada",
+            "content": "<p>Loja verificada com criptografia de ponta a ponta e segurança SSL</p>"
           }
         }
       },
