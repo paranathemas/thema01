@@ -461,6 +461,14 @@
         "price_ascending": "Preço, do menor para o maior",
         "price_descending": "Preço, do maior para o menor"
       }
+    },
+    "checkout": {
+      "stock": {
+        "price_column_header": "Preço"
+      },
+      "order_summary": {
+        "price_label": "Preço"
+      }
     }
   }
 }
