@@ -96,7 +96,7 @@
         "collection_6ThkpF": {
           "type": "collection",
           "settings": {
-            "collection": "essencias",
+            "collection": "calcas",
             "label": "",
             "button_text": "ver todos",
             "button_url": ""
@@ -107,7 +107,7 @@
         "collection_6ThkpF"
       ],
       "settings": {
-        "title": "Essências",
+        "title": "Produtos de Outlet",
         "content": "",
         "products_count": 10,
         "products_per_row": 4,

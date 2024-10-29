@@ -339,16 +339,10 @@
             "settings": {
               "atendimento_vision": "Central de Atendimento",
               "horario_loja": "seg. à sáb. 10 às 19h",
-              "email_loja": "suporte@floraviva.com",
-              "contato_loja": "(62) 99824-4655",
+              "email_loja": "sac@pitbulljeans.com.br",
+              "contato_loja": "(61) 99810-6303",
               "botaowhats_rodape": false,
               "num_whats": ""
-            }
-          },
-          "c481ffca-02fc-4105-b955-96dd22c8b41c": {
-            "type": "links",
-            "settings": {
-              "menu": "footer"
             }
           },
           "newsletter": {
@@ -366,7 +360,6 @@
         },
         "block_order": [
           "37a4a494-9f3c-439b-88be-94f3f11e4077",
-          "c481ffca-02fc-4105-b955-96dd22c8b41c",
           "newsletter",
           "4d4f2dc9-cdca-48d2-b191-7ad758344dc6"
         ],
