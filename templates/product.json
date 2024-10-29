@@ -140,7 +140,7 @@
           "type": "question",
           "settings": {
             "title": "Qual tamanho devo comprar?",
-            "answer": "<p>O tamanho deve ser consultado na tabela de medidas oficial. O cliente deve medir sua cintura e escolher o seu tamanho de acordo com a medida.</p>"
+            "answer": "<p>O tamanho deve ser consultado na tabela de medidas oficial. O cliente deve consultar a modelagem da peça na descrição e escolher o seu tamanho de acordo com a medida.</p>"
           }
         }
       },
