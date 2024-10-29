@@ -80,14 +80,14 @@
         "collection_kHJDce": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "conjuntos",
             "subheading": "",
-            "title": "",
+            "title": "Conjuntos",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 12
           }
         },
         "collection_6Wht3N": {
