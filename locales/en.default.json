@@ -382,13 +382,13 @@
   },
   "search": {
     "general": {
-      "title": "Search",
-      "terms": "Results for \"{{terms}}\"",
-      "search_placeholder": "What are you looking for?",
-      "no_results": "No results could be found.",
-      "new_search": "New search",
-      "view_all_results": "View all results",
-      "products": "Products",
+      "title": "Pesquisar",
+      "terms": "Resultados para \"{{terms}}\"",
+      "search_placeholder": "O que você procura?",
+      "no_results": "Nenhum resultado encontrado",
+      "new_search": "Nova Busca",
+      "view_all_results": "Ver todos os resultados",
+      "products": "Produtos",
       "articles": "Journal",
       "pages": "Pages",
       "collections": "Collections"
