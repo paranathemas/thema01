@@ -98,8 +98,8 @@
           "settings": {
             "collection": "calcas",
             "label": "",
-            "button_text": "ver todos",
-            "button_url": ""
+            "button_text": "",
+            "button_url": "shopify://collections/calcas"
           }
         }
       },
