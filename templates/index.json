@@ -181,10 +181,10 @@
         "item_kMpVLr": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-fast-delivery",
             "custom_icon_width": 50,
-            "title": "Frete grátis",
-            "content": "<p>Entrega gratuita para todo Brasil</p>"
+            "title": "Frete 24h disponível",
+            "content": "<p>Entrega em até 24h para todo Brasil (consulte todas as condições)</p>"
           }
         },
         "item_XBHKWJ": {

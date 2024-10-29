@@ -347,6 +347,7 @@
           },
           "newsletter": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "title": "Novidades",
               "content": "<p>Fique por dentro de todas as novidades e oferta em primeira mão.</p>"
