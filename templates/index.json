@@ -309,16 +309,17 @@
         "titulo_desk": 20,
         "tamanho_icon_mobile": 22,
         "tamanho_icon_desktop": 24,
-        "meuarroba": "@floravivabrasil",
+        "meuarroba": "@pitbulljeansoficial",
+        "image_perfil": "shopify://shop_images/277702486_1309497126239819_91909.png",
         "show_curtir": true,
         "show_arrows": true,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
-        "hashtag_color": "#0008ff",
+        "hashtag_color": "#000",
         "insta-btn_color": "#064607",
         "insta-fonte_color": "#ffffff",
         "button_text": "",
-        "button_url": "https://www.instagram.com/floravivabrasil/"
+        "button_url": "https://www.instagram.com/pitbulljeansoficial/"
       }
     },
     "text_with_icons_F6hc6L": {
