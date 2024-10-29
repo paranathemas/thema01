@@ -203,11 +203,11 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "message-1": {
+          "message_bXiR9M": {
             "type": "message",
             "settings": {
-              "text": "5% OFF NO PIX EM TODA LOJA",
-              "learn_more_text": "",
+              "text": "ESQUENTA BLACK FRIDAY 40% OFF",
+              "learn_more_text": "Saiba mais",
               "title": "",
               "content": "",
               "button_text": "",
@@ -217,7 +217,7 @@
           "message_CmpcYi": {
             "type": "message",
             "settings": {
-              "text": "📦 FRETE GRÁTIS PARA TODO BRASIL",
+              "text": "FRETE 24H DISPONÍVEL EM SUA REGIÃO",
               "learn_more_text": "Saiba mais",
               "title": "",
               "content": "",
@@ -225,11 +225,12 @@
               "button_link": ""
             }
           },
-          "message_bXiR9M": {
+          "message-1": {
             "type": "message",
+            "disabled": true,
             "settings": {
-              "text": "🔒 COMPRA SEGURA",
-              "learn_more_text": "Saiba mais",
+              "text": "5% OFF NO PIX EM TODA LOJA",
+              "learn_more_text": "",
               "title": "",
               "content": "",
               "button_text": "",
@@ -238,9 +239,9 @@
           }
         },
         "block_order": [
-          "message-1",
+          "message_bXiR9M",
           "message_CmpcYi",
-          "message_bXiR9M"
+          "message-1"
         ],
         "settings": {
           "announcement_bar_position": "non_sticky",
