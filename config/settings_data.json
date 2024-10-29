@@ -206,7 +206,7 @@
           "message-1": {
             "type": "message",
             "settings": {
-              "text": "🌿DESCONTOS DE ATÉ 70%",
+              "text": "5% OFF NO PIX EM TODA LOJA",
               "learn_more_text": "",
               "title": "",
               "content": "",
@@ -247,7 +247,7 @@
           "announcement_text_size": "normal",
           "autoplay": true,
           "cycle_speed": 3,
-          "background": "#000",
+          "background": "#000000",
           "text_color": "#ffffff",
           "button_background": "#000000",
           "button_text_color": "#010101"
