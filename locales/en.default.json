@@ -446,7 +446,8 @@
   "shopify": {
     "collections": {
       "sorting": {
-        "manual": "Promoções"
+        "manual": "Promoções",
+        "best_selling": "Mais Vendidos"
       }
     }
   }
