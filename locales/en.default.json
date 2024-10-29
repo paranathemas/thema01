@@ -468,6 +468,17 @@
       },
       "order_summary": {
         "price_label": "Preço"
+      },
+      "contextual_availability": {
+        "unavailable_label": "Disponibilidade "
+      }
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "Em estoque ",
+          "out_of_stock": "Esgotado"
+        }
       }
     }
   }
