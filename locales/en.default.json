@@ -77,12 +77,12 @@
     "general": {
       "language": "Language",
       "country": "Country/region",
-      "we_accept": "We accept"
+      "we_accept": "Nós aceitamos"
     },
     "newsletter": {
-      "email": "Your e-mail",
-      "submit": "Register",
-      "success": "You have been registered to our newsletter."
+      "email": "Seu e-mail",
+      "submit": "Registrar",
+      "success": "Bem vindo ao clube!"
     },
     "cookie_bar": {
       "accept": "Accept",
