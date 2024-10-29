@@ -396,11 +396,11 @@
   },
   "contact": {
     "form": {
-      "name": "Name",
+      "name": "Nome",
       "email": "E-mail",
-      "message": "Message",
-      "submit": "Submit",
-      "successfully_sent": "Your e-mail has been sent."
+      "message": "Mensagem",
+      "submit": "Enviar ",
+      "successfully_sent": "Seu e-mail foi enviado, retornaremos em até 24h."
     }
   },
   "gift_card": {
