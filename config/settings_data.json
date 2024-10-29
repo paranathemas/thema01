@@ -17,7 +17,7 @@
     "logo_pi_m": 0,
     "logo_ps_d": 0,
     "logo_pi_d": 0,
-    "logo_correcao_m": -12,
+    "logo_correcao_m": -4,
     "logo_correcao_d": -9,
     "colecao_fonte1m": 24,
     "colecao_fonte1d": 30,
@@ -206,7 +206,7 @@
           "message-1": {
             "type": "message",
             "settings": {
-              "text": "5% OFF NO PIX EM TODA LOJA",
+              "text": "🌿DESCONTOS DE ATÉ 70%",
               "learn_more_text": "",
               "title": "",
               "content": "",
@@ -217,7 +217,7 @@
           "message_CmpcYi": {
             "type": "message",
             "settings": {
-              "text": "📦 FRETE 24H PARA QUALQUER REGIÃO",
+              "text": "📦 FRETE GRÁTIS PARA TODO BRASIL",
               "learn_more_text": "Saiba mais",
               "title": "",
               "content": "",
@@ -228,7 +228,7 @@
           "message_bXiR9M": {
             "type": "message",
             "settings": {
-              "text": "ESQUENTA BLACK FRIDAY 40%OFF",
+              "text": "🔒 COMPRA SEGURA",
               "learn_more_text": "Saiba mais",
               "title": "",
               "content": "",
@@ -247,7 +247,7 @@
           "announcement_text_size": "normal",
           "autoplay": true,
           "cycle_speed": 3,
-          "background": "#000000",
+          "background": "#000",
           "text_color": "#ffffff",
           "button_background": "#000000",
           "button_text_color": "#010101"
@@ -315,8 +315,9 @@
         ],
         "settings": {
           "enable_sticky_header": false,
-          "logo_max_width": 165,
-          "mobile_logo_max_width": 140,
+          "logo": "shopify://shop_images/Design_sem_nome_8_1.png",
+          "logo_max_width": 245,
+          "mobile_logo_max_width": 170,
           "navigation_menu": "main-menu",
           "sidebar_navigation_menu": "",
           "header_layout": "logo_center_search_open",
