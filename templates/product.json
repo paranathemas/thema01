@@ -12,13 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "36162ec8-4bfe-48ce-b128-dcb25f74ca10": {
-          "type": "inventory",
-          "disabled": true,
-          "settings": {
-            "low_inventory_threshold": 0
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -45,6 +38,7 @@
         },
         "b03ccd22-2617-4a1d-ac48-e64ea4df469c": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "",
             "text": "",
@@ -74,7 +68,6 @@
         }
       },
       "block_order": [
-        "36162ec8-4bfe-48ce-b128-dcb25f74ca10",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -146,11 +139,11 @@
           "type": "trust",
           "settings": {
             "icon_1": "picto-delivery-truck",
-            "title_1": "Rastreio",
-            "content_1": "<p>Você receberá automaticamente um código de rastreio para acompanhar todo o status do seu pedido. </p>",
+            "title_1": "Rastreio Automático",
+            "content_1": "<p>Após finalizar o pagamento você receberá automaticamente um código de rastreio no e-mail cadastrado na compra para acompanhar todo o status do seu pedido.</p>",
             "icon_2": "picto-credit-card",
-            "title_2": "Prioridade",
-            "content_2": "<p>Pedidos realizados no cartão de crédito são processados e enviados mais rapidamente. </p>",
+            "title_2": "Prioridade de Compra",
+            "content_2": "<p>Todos os pedidos realizados no PIX são processados e enviados em até 2 horas. </p>",
             "icon_3": "picto-customer-support",
             "title_3": "Suporte Profissional",
             "content_3": "<p>Contamos com uma equipe de suporte especializada, pronta para resolver todos os seus problemas e tirar suas dúvidas. </p>"
