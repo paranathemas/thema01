@@ -57,10 +57,44 @@
         "promotion_position": "top",
         "promotion_height": "small"
       }
+    },
+    "slideshow_rHKtJQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WH7Nbm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banners_pitbull_1.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "image_WH7Nbm"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "collection-banner",
+    "slideshow_rHKtJQ",
     "ec774f3b-2e15-4924-b4de-d9d1612027f9",
     "main"
   ]
