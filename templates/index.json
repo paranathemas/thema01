@@ -132,14 +132,14 @@
         "collection_rMmRGJ": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "tops-croppeds",
             "subheading": "",
-            "title": "",
+            "title": "Tops e Croppeds",
             "link_text": "",
             "link_url": "",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 12
           }
         }
       },
