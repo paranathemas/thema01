@@ -169,7 +169,7 @@
         "reveal_on_scroll": false,
         "layout": "carousel",
         "subheading": "",
-        "title": "Lista de Coleções",
+        "title": "",
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
