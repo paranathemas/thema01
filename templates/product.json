@@ -83,7 +83,7 @@
         "d5216527-a3c8-47cb-bc5d-9495dab973ac"
       ],
       "settings": {
-        "show_progressbar": true,
+        "show_progressbar": false,
         "show_exclusividade": false,
         "show_label3": true,
         "show_vendidos": true,
@@ -98,7 +98,7 @@
         "show_amex_p": true,
         "show_discover_p": true,
         "show_pix_p": true,
-        "show_boleto_p": true,
+        "show_boleto_p": false,
         "show_box1p": true,
         "box1p_line1": "<p>Pagamentos e informações estão seguros</p>",
         "box1p_line2": "<p>Site oficial com <a href=\"/policies/privacy-policy\" title=\"Privacy Policy\">todos os direitos reservados</a></p>",
