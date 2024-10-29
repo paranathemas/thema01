@@ -153,7 +153,7 @@
       "empty_title": "Coleção vazia",
       "empty_label": "Essa coleção não contém produtos",
       "empty_button": "Voltar ao início",
-      "sort_by": "Sort by",
+      "sort_by": "Definir por",
       "products_count": {
         "zero": "{{ count }} produtos",
         "one": "{{ count }} produto",
