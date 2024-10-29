@@ -99,7 +99,7 @@
     "frete4_nome": "Frete Express",
     "frete4_preco": "R$ 28,11",
     "frete4_prazo": "em até 24h",
-    "hide_popup_size": true,
+    "hide_popup_size": false,
     "popup_button-text": "VER MEDIDAS",
     "popup_size-color": "#000",
     "popup_text_medidas-color": "#ffffff",
