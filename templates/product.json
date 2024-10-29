@@ -119,6 +119,44 @@
         "transition_effect": "fade"
       }
     },
+    "0156e20f-57ea-4f6a-99a4-6f9d637da63a": {
+      "type": "faq",
+      "blocks": {
+        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-2": {
+          "type": "question",
+          "settings": {
+            "title": "Tem garantia?",
+            "answer": "<p>A Pit Bull Jeans vende apenas produtos de altíssima qualidade, você tem até 30 dias arrependimento da compra e 90 dias para  para trocas e devoluções.</p>"
+          }
+        },
+        "question_M7DUra": {
+          "type": "question",
+          "settings": {
+            "title": "Como funciona a troca?",
+            "answer": "<p>Para trocar qualquer peça desde que esteja na garantia prevista basta enviar a solicitação para nosso SAC de atendimento que retornaremos em 24h</p><p><strong>Atendimento: </strong>seg. à sáb. 10h às 19h</p><p><strong>E-mail:</strong> sac@pitbulljeans.com.br</p><p><strong>WhatsApp: </strong>(61) 99810-6303</p>"
+          }
+        },
+        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-1": {
+          "type": "question",
+          "settings": {
+            "title": "Qual tamanho devo comprar?",
+            "answer": "<p>O tamanho deve ser consultado na tabela de medidas oficial. O cliente deve medir sua cintura e escolher o seu tamanho de acordo com a medida.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-2",
+        "question_M7DUra",
+        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-1"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "Dúvidas Frequentes",
+        "content": "",
+        "background": "#FFF",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "product-content": {
       "type": "product-content",
       "blocks": {
@@ -158,41 +196,23 @@
       "settings": {
       }
     },
-    "0156e20f-57ea-4f6a-99a4-6f9d637da63a": {
-      "type": "faq",
-      "blocks": {
-        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-2": {
-          "type": "question",
-          "settings": {
-            "title": "Tem garantia?",
-            "answer": "<p>A Pit Bull Jeans apenas produtos de altíssima qualidade, você tem até 30 dias arrependimento da compra e 90 dias para  para trocas e devoluções</p>"
-          }
-        },
-        "question_M7DUra": {
-          "type": "question",
-          "settings": {
-            "title": "Como funciona a troca?",
-            "answer": "<p>Para trocar qualquer peça desde que esteja na garantia prevista basta enviar a solicitação para nosso SAC de atendimento que retornaremos em 24h</p><p><strong>Atendimento: </strong>seg. à sáb. 10h às 19h</p><p><strong>E-mail:</strong> sac@pitbulljeans.com.br</p><p><strong>WhatsApp: </strong>(61) 99810-6303</p>"
-          }
-        },
-        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-1": {
-          "type": "question",
-          "settings": {
-            "title": "Qual tamanho devo comprar?",
-            "answer": "<p>O tamanho deve ser consultado na tabela de medidas oficial. O cliente deve medir sua cintura e escolher o seu tamanho de acordo com a medida.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-2",
-        "question_M7DUra",
-        "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-1"
-      ],
+    "product-recommendations": {
+      "type": "product-recommendations",
       "settings": {
-        "show_navigation": false,
-        "title": "Dúvidas Frequentes",
-        "content": "",
-        "background": "#FFF",
+        "subheading": "",
+        "title": "Você também vai gostar",
+        "recommendations_count": 6,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3bece99d-b538-4163-b550-00067fdca693": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "subheading": "",
+        "title": "Vistos Recentemente",
+        "products_count": 4,
+        "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
     },
@@ -255,26 +275,6 @@
         "insta-fonte_color": "#fff",
         "button_text": "",
         "button_url": ""
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "subheading": "",
-        "title": "Você também vai gostar",
-        "recommendations_count": 6,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "3bece99d-b538-4163-b550-00067fdca693": {
-      "type": "recently-viewed-products",
-      "settings": {
-        "subheading": "",
-        "title": "Vistos Recentemente",
-        "products_count": 4,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
       }
     }
   },
