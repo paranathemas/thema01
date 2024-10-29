@@ -224,13 +224,13 @@
   },
   "list_collections": {
     "general": {
-      "title": "Collections",
+      "title": "Coleções",
       "empty": "This store does not contain any collection.",
-      "back_to_home": "Back to home page",
+      "back_to_home": "Voltar a página inicial",
       "products_count": {
-        "zero": "No products",
-        "one": "{{count}} product",
-        "other": "{{count}} products"
+        "zero": "Sem produtos",
+        "one": "{{count}} produto",
+        "other": "{{count}} produtos"
       }
     }
   },
