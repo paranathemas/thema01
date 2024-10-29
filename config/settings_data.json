@@ -228,7 +228,7 @@
           "message_bXiR9M": {
             "type": "message",
             "settings": {
-              "text": "🔒 COMPRA SEGURA",
+              "text": "FRETE 24H PARA QUALQUER REGIÃO",
               "learn_more_text": "Saiba mais",
               "title": "",
               "content": "",
@@ -247,7 +247,7 @@
           "announcement_text_size": "normal",
           "autoplay": true,
           "cycle_speed": 3,
-          "background": "#000",
+          "background": "#000000",
           "text_color": "#ffffff",
           "button_background": "#000000",
           "button_text_color": "#010101"
