@@ -64,13 +64,13 @@
   },
   "header": {
     "general": {
-      "navigation": "Navigation",
+      "navigation": "Navegação",
       "newsletter": "Newsletter",
       "login": "Login",
-      "account": "Account",
-      "cart": "Cart",
-      "language": "Language",
-      "country": "Country/region"
+      "account": "Conta",
+      "cart": "Carrinho",
+      "language": "Linguagem",
+      "country": "País/Região"
     }
   },
   "footer": {
