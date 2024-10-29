@@ -61,6 +61,105 @@
         "background": "rgba(0,0,0,0)"
       }
     },
+    "collection_list_bNCpz9": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_XiV63a": {
+          "type": "collection",
+          "settings": {
+            "collection": "calcas",
+            "subheading": "",
+            "title": "Calças",
+            "link_text": "",
+            "link_url": "shopify://collections/calcas",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 12
+          }
+        },
+        "collection_kHJDce": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6Wht3N": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_LhAqHA": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Jq9AjG": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_rMmRGJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_XiV63a",
+        "collection_kHJDce",
+        "collection_6Wht3N",
+        "collection_LhAqHA",
+        "collection_Jq9AjG",
+        "collection_rMmRGJ"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "",
+        "title": "Lista de Coleções",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "featured_collections_YK83PX": {
       "type": "featured-collections",
       "blocks": {
@@ -252,6 +351,7 @@
   },
   "order": [
     "slideshow",
+    "collection_list_bNCpz9",
     "featured_collections_YK83PX",
     "featured_collections_NFTrPL",
     "slideshow_BhzU49",
