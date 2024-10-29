@@ -442,5 +442,12 @@
       "description": "Sorry, this page does not exist.",
       "back_to_home": "Back to home"
     }
+  },
+  "shopify": {
+    "collections": {
+      "sorting": {
+        "manual": "Promoções"
+      }
+    }
   }
 }
